@@ -1,1 +1,1 @@
-let bot_guilds = 1302
+let bot_guilds = 1301
