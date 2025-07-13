@@ -1,13 +1,13 @@
 {
-"users:": [
-        "memoryWW",
-        "pashaddddd",
-        "hulikdulik",
-        "Ruda_Tester",
-        "Malibuca"
-],
-"banned": [
-    {"Слив Lua без согласия", "Danonchik_1488"},
-    {"test2", "Тимейт"}
-]
+    "users:": [
+        [
+        "{'Слив Lua без согласия', 'Danonchik_1488'}",
+        "{'test2', 'Тимейт'}"
+    ]
+    ]
+    "banned": [        [
+        {"Слив Lua без согласия", "Danonchik_1488"},
+        {"test2", "Тимейт"}
+    ]
+    ]
 }
