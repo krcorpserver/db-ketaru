@@ -4,10 +4,10 @@
         "pashaddddd",
         "hulikdulik",
         "Ruda_Tester",
-        "Malibuca",
-        "Danonchik"
+        "Malibuca"
     ]
     "banned": [
-        {"Danonchik_1488", "Слив Lua без согласия"}
+        {"Danonchik_1488", "Слив Lua без согласия"},
+        {"Danonchik", "et495845908"}
     ]
 }
