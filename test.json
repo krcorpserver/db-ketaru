@@ -4,8 +4,11 @@
         "pashaddddd",
         "hulikdulik",
         "Ruda_Tester",
-        "Malibuca"
-],    "banned": [
+        "Malibuca",
+        "kelixme"
+],
+    "banned": [
 {"Слив Lua без согласия", "Danonchik_1488"},
         {"test2", "Тимейт"}
-]}
+]
+}
