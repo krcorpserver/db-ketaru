@@ -1,1 +1,1 @@
-{'users:': [], 'banned': [{'User': 'kelixme', 'Reason': '888'}]}
+{'users:': ['kelixme'], 'banned': []}
